@@ -1,5 +1,5 @@
-<h3>ApiRestNode</h3>
+## Api Rest Node
 
-<p>Api rest desenvolvida usando node, mysql e sequelize</p>
+Api rest developed using node, mysql and sequelize 
 
-<p>Para usar rodar o projeto execute <b>npm install</b> e <b>npm run dev</b></p>
+<p>To use the project run <b> npm install </b> and <b> npm run dev </b></p>
